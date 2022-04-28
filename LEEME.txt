@@ -1,0 +1,9 @@
+Integrantes
+-David Santiago Rodríguez Segovia (dsrodriguezse@unal.edu.co)
+-Miguel Angel Villada Saavedra (mvilladas@unal.edu.co)
+
+Ejecución:
+1)Ejecutar el Makefile
+2)En un terminal ejecutar ./interfaz el cual mostrará el menú para ingresar los datos.
+3)En un terminal diferente ejecutar ./busqueda el cual imprimirá en pantalla el tiempo que se demora ejecutando el proceso.
+4)En el terminal de interfaz se muestra el tiempo medio de viaje buscado.
